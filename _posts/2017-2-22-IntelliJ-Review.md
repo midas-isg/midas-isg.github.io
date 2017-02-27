@@ -22,7 +22,8 @@ Most of what my development team produces is either in the form of a web service
  4. Automatic detection and reload of changed resources
  5. Remote debugging support
 
-## Feature 3: Excellent code complete
+## Feature 3: Excellent code completion
+The code completion feature in IntellJ is comprehensive.
 
 ## Feature 4: Analytics
 
