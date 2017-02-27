@@ -3,7 +3,7 @@ layout: post
 title: Review of IntelliJ IDEA IDE
 author: John Levander
 ---
-
+(under development)
 IntelliJ is a Java IDE developed by [JetBrains s.r.o.](www.jetbrains.com) In 2014, JetBrains started supporting our open source projects by providing free licenses of IntellJ.  In this blog post, I review the features of IntelliJ that are most popular amongst the members of our development team.
 
 ## Feature 1: Built-in developer tools
