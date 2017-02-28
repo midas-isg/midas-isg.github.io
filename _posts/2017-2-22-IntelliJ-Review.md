@@ -55,7 +55,7 @@ Honesltly I don't have many complaints about IntelliJ.  To me, it's the best Jav
 
 2.  While Maven support is very good, it's not perfect yet.  There have been several times that IntelliJ wouldn't run my project because it couldn't find the required classes to satisfy some imports.  The classes were there, but IntelliJ just wouldn't pick them up.  Sometimes clicking the "refresh" button in the Maven view fixes the problem, other times it's been so bad that we had to clear the Intellij cache and reboot.  This doesn't happen often, but when it does happen it's a  time waster.
 
-In Eclipse, I rembmer having these problems as well.  I have one team member that uses NetBeans and he claims that he's never experienced a Maven issue in NetBeans.
+ In Eclipse, I rembmer having these problems as well.  I have one team member that uses NetBeans and he claims that he's never experienced a Maven issue in NetBeans.
 
 3. For whatever reason, all of my developers set their theme to an included dark them named "Darcula."  The majority of the theme looks great, but there are times where I am trying to read their screen and the text becomes difficult to read (example?).  I would love for IntelliJ to support a dark solarized theme by default (link).  
 
