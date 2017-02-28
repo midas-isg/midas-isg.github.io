@@ -48,6 +48,15 @@ I include the database tool in this review just as an example of one of the many
 
 The database tool is just another feature that will save you from spending money on 3rd party database administration tools. 
 
+## Critiques
+Honesltly I don't have many complaints about IntelliJ.  To me, it's the best Java IDE out there.  I asked my programming team for any critiques that they might have and I will report them below.
+
+1. One developer was using the refactoring feature of IntelliJ to rename a class, and he was suprised to find that IntelliJ also replaced the content of some of his configuration files.  
+
+2. Another developer complained about the speed of IntelliJ, stating that other IDEs that he's used are faster.  (supporting evidence?)
+
+3. Another developer stated taht the Maven support would sometimes "flake out" and not synchronize properly with the file system.  I've experienced this as well and the fix is usually as simple as clicking the "refresh" button at the top of the Maven view.  NetBeans, which can use POM files instead of project files, never seems to have this issue.
+
 
 
 
