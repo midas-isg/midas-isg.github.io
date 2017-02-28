@@ -17,9 +17,9 @@ I included "Built-in developer tools" as the first feature in my review because 
 Most of what my development team produces is either in the form of a web service or a web application, which we delpoy on a Tomcat application server.  Therefore, good application server support is a key requirement for IDEs used by members of the team.  We find IntelliJ to be completely adaquate in this regard for the following reasons:
 
  1. Built in Tomcat support
-There are no plugins or tools to install to create Tomcat configurations in IntelliJ.
+There are no plugins or tools to install to create Tomcat configurations in IntelliJ (beyond having to install Tomcat).
  2. Simple server configuration
-All it takes to create a server configuration is to point at a tomcat installation. After that you simply choose the artificats that you want to deploy to the server.  This amount of configuration will suffice for most users, and is pretty intuitive to setup.
+All it takes to create a server configuration is to point at a Tomcat installation. After that you simply choose the artificats that you want to deploy to the server.  This amount of configuration will suffice for most users, and is intuitive to setup.
  3. Separate release and debug environments
 In our apps, we normally have "release" configuration files and "debug" configuration files which are referenced by environment variables.  With IntelliJ, you can configure your environment variables directly in the server configuration screen, and define a set of variables to be used when Tomcat is in "Run" mode vs. "Debug" mode.  
  4. Automatic detection and reload of changed resources
@@ -46,23 +46,14 @@ In our group, we develop our Java web applications as MVC applications using Spr
 ## Feature 6: Database tool
 I include the database tool in this review just as an example of one of the many tools that come with IntelliJ that you might not expect.  We were very pleased to discover that we could connect to and edit database from within IntelliJ.  The speed of the tool out performes a stand-alone commercial database viewer that we used, and it even came with advanced options like the ability to create a tunnel to connect to the database.  
 
-The database tool is just another feature that will save you from spending money on 3rd party database administration tools. 
+The database tool is just another feature that will saves money that would be otherwise spent on 3rd party database administration tools. 
 
 ## Critiques
-Honesltly I don't have many complaints about IntelliJ.  To me, it's the best Java IDE out there.  I asked my programming team for any critiques that they might have and I will report them below.
+1.  No visual XSD editor [like the one that Eclipse has had for over a decade](https://wiki.eclipse.org/Introduction_to_the_XSD_Editor).  Giving developers and other non-technical team members the ability to expolore a visual representation of an XSD is a great way to familairize someone with an XSD.  The lack of this feature forces some of my team to keep a copy of Eclipse handy just for this specific task.
 
-1.  Of all of the available plugins, I have yet to find a visual XSD viwer/editor in IntelliJ that is as powerful as the one found in Eclipse.  In IntelliJ you are meant to edit XSD files in text mode and use the very powerful autocomplete feature, but this just isn't the same as a nice point and click interface that shows relationships between elements like the one Eclipse provides.
+2.  While Maven support is very good, it's not perfect yet.  There have been several times that IntelliJ wouldn't run my project because it couldn't find the required classes to satisfy all of the imports.  The dependencies were added and installed, but IntelliJ just wouldn't pick them up.  Sometimes clicking the "re-import all maven projects" button in the Maven view fixes the problem, other times the problem has been so bad that we had to clear the Intellij cache and reboot the software.  This doesn't happen often, but when it does happen it's a time waster.
 
-2.  While Maven support is very good, it's not perfect yet.  There have been several times that IntelliJ wouldn't run my project because it couldn't find the required classes to satisfy some imports.  The classes were there, but IntelliJ just wouldn't pick them up.  Sometimes clicking the "refresh" button in the Maven view fixes the problem, other times it's been so bad that we had to clear the Intellij cache and reboot.  This doesn't happen often, but when it does happen it's a  time waster.
-
- In Eclipse, I rembmer having these problems as well.  I have one team member that uses NetBeans and he claims that he's never experienced a Maven issue in NetBeans.
-
-3. For whatever reason, all of my developers set their theme to an included dark them named "Darcula."  The majority of the theme looks great, but there are times where I am trying to read their screen and the text becomes difficult to read (example?).  I would love for IntelliJ to support a dark solarized theme by default (link).  
-
-
-
-
-
+ In Eclipse, I had similar problems as well, so this problem is not isolated to IntelliJ.  I have one team member that uses NetBeans and he claims that he's never experienced a Maven issue in NetBeans.  
 
 
 
