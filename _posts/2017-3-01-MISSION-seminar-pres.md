@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIDAS MISSION Training Video - Disease surveillance for lower socioeconomic populations.
+title: Video - Disease surveillance for lower socioeconomic populations.
 ---
 
 Dr. Scarpino from the University of Vermont discusses techniques for disease surveillance for lower socioeconomic populations.
