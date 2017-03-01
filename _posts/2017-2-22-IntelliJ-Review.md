@@ -4,7 +4,7 @@ title: Review of IntelliJ IDEA IDE
 author: John Levander
 ---
 
-IntelliJ IDEA is a Java IDE developed by [JetBrains s.r.o.](www.jetbrains.com)  JetBrains started supporting our open source projects by providing free licenses of IntellJ, starting in 2014.  In this blog post, I review the features of IntelliJ that are most popular amongst the members of our development team.
+IntelliJ IDEA is a Java IDE developed by [JetBrains s.r.o.](www.jetbrains.com)  JetBrains started supporting our open source projects by providing free licenses of IntellJ starting in 2014.  In this blog post, I review the features of IntelliJ that are most popular amongst the members of our development team.
 
 ## Feature 1: Built-in developer tools
 After being an [Eclipse](www.eclipse.org) user for the better part of a decade, I became accustomed to spending at least an hour configuring my IDE after a fresh install.  When I last used Eclipse, and this very well may still be the case, it didn't come with built-in tools such as revision control systems, build automation tools, or application frameworks.  Users were expected to download the plugins that they need from the Eclipse Marketplace. This process worked well enough, but by the time you find everything you need and configure each tool, well over an hour could pass before you could get to work.
