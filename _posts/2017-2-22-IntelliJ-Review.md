@@ -4,7 +4,6 @@ title: Review of IntelliJ IDEA IDE
 author: john_levander
 ---
 
-<!-- Output author details if some exist. -->
 IntelliJ IDEA is a Java IDE developed by [JetBrains s.r.o.](http://www.jetbrains.com)  JetBrains started supporting our open source projects by providing free licenses of IntellJ starting in 2014.  In this blog post, I review the features of IntelliJ that are most popular amongst the members of our development team.
 
 ## Feature 1: Built-in developer tools
@@ -51,6 +50,8 @@ No IDE is perfect, and IntelliJ is no exception to that rule.  Here are a few cr
 2.  While Maven support is very good, it's not perfect yet.  There have been several times that IntelliJ wouldn't run my project because it couldn't find the required classes to satisfy all of the imports.  The dependencies were added and installed, but IntelliJ just wouldn't pick them up.  Sometimes clicking the "re-import all maven projects" button in the Maven view fixes the problem, other times the problem has been so bad that we had to clear the IntelliJ cache and reboot the software.  This doesn't happen often, but when it does happen it's a time waster.
 
 3. IntelliJ seems slower than other IDEs.  I don't have any benchmarks to share, but this is a common complaint I hear on my team.  For example, after IntelliJ starts it needs to index all of the modules in your project.  You can't really do anything while this is happening as it's such a CPU intensive process.  On machines with a slow disk drive (e.g. a laptop with a 5200 RPM hard drive) this process can take over a minute.  However, if you have a newer computer with a good bit of RAM and a solid state disk drive you shouldn't notice many performance problems.
+
+Visit [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/) to download IntelliJ.
 
 This post was made by [*John Levander*](https://github.com/JohnLevander), a Senior Software Developer at the University of Pittsburgh's Department of Biomedical Informatics.
 
