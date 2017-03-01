@@ -16,7 +16,7 @@ Most of what my development team produces is either in the form of a web service
 
  1. Built in Tomcat support
  
-There are no plugins or tools to install to create Tomcat configurations in IntelliJ (beyond having to install Tomcat).
+All that you need to setup a Tomcat configuration in IntellJ is to have a Tomcat installation on your machine.
  2. Simple server configuration
  
 All it takes to create a server configuration is to point at a Tomcat installation. After that you simply choose the artificats that you want to deploy to the server.  This amount of configuration will suffice for most users, and is intuitive to setup.
