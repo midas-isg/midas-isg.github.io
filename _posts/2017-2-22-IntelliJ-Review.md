@@ -12,7 +12,7 @@ After being an [Eclipse](http://www.eclipse.org) user for the better part of a d
 When I first tried IntelliJ I was surprised to find that it supported everything I need by default.  Within a few minutes of installing IntelliJ for the first time, I was able to download a project from Git and build it using Maven.  It may sound like a small thing, but after setting up dozens of Eclipse environments for over a decade, this is the feature that really won me over.
 
 ## Feature 2:  Application server support
-Most of what my development team produces is either in the form of a web service or a web application, which we delpoy on a Tomcat application server.  This means that our team needs an IDE that has good application server support.  We find IntelliJ has the feature that we need from an IDE:
+Most of what my development team produces is either in the form of a web service or a web application, which we delpoy on a Tomcat application server.  This means that our team needs an IDE that has good application server support.  We find IntelliJ has the features that we need from an IDE:
 
  1. Built in Tomcat support
 There are no plugins or tools to install to create Tomcat configurations in IntelliJ (beyond having to install Tomcat).
