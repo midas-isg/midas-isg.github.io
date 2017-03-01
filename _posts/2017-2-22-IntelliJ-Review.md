@@ -45,7 +45,6 @@ The database tool is just another feature that saves money that would be otherwi
 ## Critiques
 No IDE is perfect, and IntelliJ is no exception to that rule.  Here are a few of our complaints:
 
-1.  Lack of large file support.  
 1.  No visual XSD editor [like the one that Eclipse has had for over a decade](https://wiki.eclipse.org/Introduction_to_the_XSD_Editor).  Giving developers and other non-technical team members the ability to expolore a visual representation of an XSD is a great way to familairize someone with an XSD.  The lack of this feature forces some of my team to keep a copy of Eclipse handy just for this specific task.
 
 2.  While Maven support is very good, it's not perfect yet.  There have been several times that IntelliJ wouldn't run my project because it couldn't find the required classes to satisfy all of the imports.  The dependencies were added and installed, but IntelliJ just wouldn't pick them up.  Sometimes clicking the "re-import all maven projects" button in the Maven view fixes the problem, other times the problem has been so bad that we had to clear the Intellij cache and reboot the software.  This doesn't happen often, but when it does happen it's a time waster.
