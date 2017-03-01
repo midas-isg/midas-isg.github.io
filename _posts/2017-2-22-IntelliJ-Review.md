@@ -52,5 +52,5 @@ No IDE is perfect, and IntelliJ is no exception to that rule.  Here are a few cr
 
 3. IntelliJ seems slower than other IDEs.  I don't have any benchmarks to share, but this is a common complaint I hear on my team.  For example, after IntelliJ starts it needs to index all of the modules in your project.  You can't really do anything while this is happening as it's such a CPU intensive process.  On machines with a slow disk drive (e.g. a laptop with a 5200 RPM hard drive) this process can take over a minute.  However, if you have a newer computer with a good bit of RAM and a solid state disk drive you shouldn't notice many performance problems.
 
-This post was made by [*by John Levander*](https://github.com/JohnLevander), of the University of Pittsburgh Department of Biomedical Informatics.
+This post was made by [*John Levander*](https://github.com/JohnLevander), a Senior Software Developer at the University of Pittsburgh's Department of Biomedical Informatics.
 
