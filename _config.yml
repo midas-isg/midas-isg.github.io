@@ -6,10 +6,10 @@
 name: MIDAS ISG Developer's Blog
 
 # Short bio or description (displayed in the header)
-description: Description
+description: This is the official Blog of the MIDAS ISG Software Developers
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
