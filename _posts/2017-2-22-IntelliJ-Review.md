@@ -28,7 +28,7 @@ The suggestions are great for veterans and new developers alike.  New developers
 Veteran developers will appreciate the speed at which IntelliJ can bring up suggestions and save them typing.  Even if a developer knows the code base very well, it's usually a lot faster to start a line of code, invoke code completion, and scroll down to the code they planned to type.  As a senior developer I invoke code completion many times a day, not because I need it, but because it allows me to get my work done more quickly.
 
 ## Feature 4: Analytics
-Another key feature of IntelliJ is the ability to analyize your code and suggest improvements.  Even after over a decade developing in Java, IntelliJ still manages to point out room for improvement in my code.
+Another key feature of IntelliJ is the ability to analyze your code and suggest improvements.  Even after over a decade developing in Java, IntelliJ still manages to point out room for improvement in my code.
 
 I've also noticed that the Analytics tool enables new developers to get a jump on learning to write high quality code right away -- just by looking at the warnings and suggestions provided by this tool.
 
