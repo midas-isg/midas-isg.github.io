@@ -15,14 +15,19 @@ When I first tried IntelliJ I was surprised to find that it supported everything
 Most of what my development team produces is either in the form of a web service or a web application, which we delpoy on a Tomcat application server.  This means that our team needs an IDE that has good application server support.  We find IntelliJ has the features that we need from an IDE:
 
  1. Built in Tomcat support
+ 
 There are no plugins or tools to install to create Tomcat configurations in IntelliJ (beyond having to install Tomcat).
  2. Simple server configuration
+ 
 All it takes to create a server configuration is to point at a Tomcat installation. After that you simply choose the artificats that you want to deploy to the server.  This amount of configuration will suffice for most users, and is intuitive to setup.
  3. Separate release and debug environments
+ 
 In our apps, we normally have "release" configuration files and "debug" configuration files which are referenced by environment variables.  With IntelliJ, you can configure your environment variables directly in the server configuration screen, and define a set of variables to be used when Tomcat is in "Run" mode vs. "Debug" mode.  
  4. Automatic detection and reload of changed resources
+ 
 I really apprecaite that we can make changes to files without having to restart the server.  We configure IntelliJ so that when we make a change to any files that go into the war, the IDE immediately deploys the changes to the server.  This means that we view our changes in a web browsers in a matter of a few seconds seconds, rather than having to re-deploy the entire .war to load the new changes.
  5. Remote debugging support
+ 
 It's also relatively painless to setup remote debugging of Tomcat servers in IntelliJ.  This is a very powerful feature that we use to catch those bugs that only seem to happen in production.
 
 ## Feature 3: Excellent code completion
