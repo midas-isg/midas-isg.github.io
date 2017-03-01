@@ -43,7 +43,7 @@ I include the database tool in this review just as an example of one of the many
 The database tool is just another feature that saves money that would be otherwise spent on 3rd party database administration tools. 
 
 ## Critiques
-No IDE is perfect, and IntelliJ is no exception to that rule.  Here are a few of our complaints:
+No IDE is perfect, and IntelliJ is no exception to that rule.  Here are a few critiques of the software:
 
 1.  No visual XSD editor [like the one that Eclipse has had for over a decade](https://wiki.eclipse.org/Introduction_to_the_XSD_Editor).  Giving developers and other non-technical team members the ability to expolore a visual representation of an XSD is a great way to familairize someone with an XSD.  The lack of this feature forces some of my team to keep a copy of Eclipse handy just for this specific task.
 
