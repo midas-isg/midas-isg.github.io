@@ -21,14 +21,14 @@ Most of what my development team produces is either in the form of a web service
  5. __Remote debugging support__ - It's also relatively painless to setup remote debugging of Tomcat servers in IntelliJ.  This is a very powerful feature that we use to catch those bugs that only seem to happen in production.
 
 ## Feature 3: Excellent code completion
-The code completion feature in IntellJ is extensive. I could write pages of text on all of the auto completion features, but [JetBrains took care of that for me.](https://www.jetbrains.com/help/idea/2016.3/auto-completing-code.html)  But here's the catch, you don't need to read any of those docs.  When you are editing your code, just invoke code completion and you'll be quite pleased with the suggestions that you receive.  IntelliJ does a great job of analyzing the context of your position in the code, and then gives relevant suggestions to complete the expression.
+The code completion feature in IntelliJ is extensive. I could write pages of text on all of the auto completion features, but [JetBrains took care of that for me.](https://www.jetbrains.com/help/idea/2016.3/auto-completing-code.html)  But here's the catch, you don't need to read any of those docs.  When you are editing your code, just invoke code completion and you'll be quite pleased with the suggestions that you receive.  IntelliJ does a great job of analyzing the context of your position in the code, and then gives relevant suggestions to complete the expression.
 
 The suggestions are great for veterans and new developers alike.  New developers will appreicate the speed at which they can get working in an established codebase.  For example, if they are working in an unfamilair class, invoking code completion on an instance variable will give them a complete list of accessable variables and methods.  This saves a lot of time switching back and forth between classes when trying to learn new code.
 
-Veteran deveopers will appreciate the speed at which IntelliJ can bring up suggestions and save them typing.  Even if a developer knows the code base very well, it's usually a lot faster to start a line of code, invoke code completion, and scroll down to the code they planned to type.  As a senior developer I invoke code completion many times a day, not because I need it, but because it allows me to get my work done more quickly.
+Veteran developers will appreciate the speed at which IntelliJ can bring up suggestions and save them typing.  Even if a developer knows the code base very well, it's usually a lot faster to start a line of code, invoke code completion, and scroll down to the code they planned to type.  As a senior developer I invoke code completion many times a day, not because I need it, but because it allows me to get my work done more quickly.
 
 ## Feature 4: Analytics
-Another key feature of IntellJ is the ability to analyize your code and suggest improvements.  Even after over a decade developing in Java, IntelliJ still manages to point out room for improvment in my code.
+Another key feature of IntelliJ is the ability to analyize your code and suggest improvements.  Even after over a decade developing in Java, IntelliJ still manages to point out room for improvement in my code.
 
 I've also noticed that the Analytics tool enables new developers to get a jump on learning to write high quality code right away -- just by looking at the warnings and suggestions provided by this tool.
 
