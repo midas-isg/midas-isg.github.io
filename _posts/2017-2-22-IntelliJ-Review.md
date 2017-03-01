@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of IntelliJ IDEA IDE
+title: Review of IntelliJ IDEA IDE : test
 author: john_levander
 ---
 
