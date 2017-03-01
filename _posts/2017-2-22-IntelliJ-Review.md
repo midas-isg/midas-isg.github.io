@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of IntelliJ IDEA IDE
+author: john_levander
 ---
 
 <!-- Output author details if some exist. -->
