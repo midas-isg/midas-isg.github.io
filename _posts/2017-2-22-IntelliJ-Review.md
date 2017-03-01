@@ -3,7 +3,7 @@ layout: post
 title: Review of IntelliJ IDEA IDE
 author: john_levander
 ---
-[*by John Levander*](https://github.com/JohnLevander)
+[*by John Levander*](https://github.com/JohnLevander), of the University of Pittsburgh
 
 <!-- Output author details if some exist. -->
 IntelliJ IDEA is a Java IDE developed by [JetBrains s.r.o.](www.jetbrains.com)  JetBrains started supporting our open source projects by providing free licenses of IntellJ starting in 2014.  In this blog post, I review the features of IntelliJ that are most popular amongst the members of our development team.
