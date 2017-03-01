@@ -38,7 +38,7 @@ In our group, we develop our Java web applications as MVC applications using Spr
 
 
 ## Feature 6: Database tool
-I include the database tool in this review just as an example of one of the many tools that come with IntelliJ that you might not expect.  We were very pleased to discover that we could connect to and edit database from within IntelliJ.  The speed of the tool out-performs a stand-alone commercial database viewer that we used, and it even came with advanced options like the ability to create a tunnel to connect to the database.  
+I include the database tool in this review just as an example of one of the many tools that come with IntelliJ that you might not expect.  We were very pleased to discover that we could connect to and edit databases from within IntelliJ.  The speed of the tool out-performs a stand-alone commercial database viewer that we used, and it even came with advanced options like the ability to create an SSH tunnel to connect to the database.  
 
 The database tool is just another feature that saves money that would be otherwise spent on 3rd party database administration tools. 
 
