@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+The MIDAS ISG Software Development group focuses on developing interoperable, open source solutions to foster public health research.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[isg-feedback@pitt.edu](mailto:isg-feedback@pitt.edu)
